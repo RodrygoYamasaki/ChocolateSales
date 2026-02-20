@@ -1,0 +1,101 @@
+Sales Person,Country,Product,Date,Amount,Boxes Shipped
+Ana Silva,Brasil,Amargo 70%,2026-01-05,1250.00,25
+James Cook,USA,Milk Chocolate,2026-01-07,840.00,12
+Elena Rossi,Italy,Gianduja Bar,2026-01-10,2100.00,30
+Marc Petit,France,Truffles Box,2026-01-12,550.00,5
+Hans Müller,Germany,Marzipan Dark,2026-01-15,1450.00,22
+Yuki Tanaka,Japan,Matcha Choco,2026-01-18,3200.00,40
+Ana Silva,Brasil,Ao Leite,2026-01-20,900.00,18
+James Cook,USA,Caramel Sea Salt,2026-01-22,620.00,10
+Elena Rossi,Italy,Hazelnut Spread,2026-01-25,1800.00,28
+Marc Petit,France,White Chocolate,2026-01-28,430.00,8
+Ana Silva,Brasil,Praline,2026-02-01,2100.00,35
+James Cook,USA,Amargo 70%,2026-02-03,1100.00,20
+Elena Rossi,Italy,Milk Chocolate,2026-02-05,950.00,15
+Hans Müller,Germany,Gianduja Bar,2026-02-08,2500.00,38
+Yuki Tanaka,Japan,Truffles Box,2026-02-10,4100.00,50
+Marc Petit,France,Ao Leite,2026-02-12,720.00,14
+Ana Silva,Brasil,Marzipan Dark,2026-02-15,1300.00,20
+James Cook,USA,Matcha Choco,2026-02-18,2800.00,35
+Elena Rossi,Italy,Caramel Sea Salt,2026-02-20,500.00,8
+Hans Müller,Germany,Hazelnut Spread,2026-02-22,1950.00,30
+Yuki Tanaka,Japan,White Chocolate,2026-02-25,600.00,12
+Marc Petit,France,Praline,2026-02-28,1550.00,25
+Ana Silva,Brasil,Milk Chocolate,2026-03-02,1100.00,22
+James Cook,USA,Gianduja Bar,2026-03-05,2300.00,32
+Elena Rossi,Italy,Truffles Box,2026-03-07,480.00,4
+Hans Müller,Germany,Ao Leite,2026-03-10,850.00,16
+Yuki Tanaka,Japan,Amargo 70%,2026-03-12,3500.00,45
+Marc Petit,France,Marzipan Dark,2026-03-15,1200.00,18
+Ana Silva,Brasil,Matcha Choco,2026-03-18,2900.00,38
+James Cook,USA,Caramel Sea Salt,2026-03-20,700.00,11
+Elena Rossi,Italy,Hazelnut Spread,2026-03-22,1700.00,26
+Hans Müller,Germany,White Chocolate,2026-03-25,550.00,10
+Yuki Tanaka,Japan,Praline,2026-03-28,2400.00,30
+Marc Petit,France,Amargo 70%,2026-04-01,1150.00,20
+Ana Silva,Brasil,Gianduja Bar,2026-04-03,2600.00,35
+James Cook,USA,Truffles Box,2026-04-05,520.00,5
+Elena Rossi,Italy,Ao Leite,2026-04-08,980.00,19
+Hans Müller,Germany,Marzipan Dark,2026-04-10,1400.00,21
+Yuki Tanaka,Japan,Matcha Choco,2026-04-12,3300.00,42
+Marc Petit,France,Caramel Sea Salt,2026-04-15,680.00,10
+Ana Silva,Brasil,Hazelnut Spread,2026-04-18,2100.00,32
+James Cook,USA,White Chocolate,2026-04-20,490.00,9
+Elena Rossi,Italy,Praline,2026-04-22,1850.00,28
+Hans Müller,Germany,Amargo 70%,2026-04-25,1280.00,24
+Yuki Tanaka,Japan,Milk Chocolate,2026-04-28,920.00,16
+Marc Petit,France,Gianduja Bar,2026-05-01,2450.00,34
+Ana Silva,Brasil,Truffles Box,2026-05-03,600.00,6
+James Cook,USA,Ao Leite,2026-05-05,870.00,17
+Elena Rossi,Italy,Marzipan Dark,2026-05-08,1350.00,20
+Hans Müller,Germany,Matcha Choco,2026-05-10,3100.00,40
+Yuki Tanaka,Japan,Caramel Sea Salt,2026-05-12,750.00,12
+Marc Petit,France,Hazelnut Spread,2026-05-15,1900.00,29
+Ana Silva,Brasil,White Chocolate,2026-05-18,520.00,10
+James Cook,USA,Praline,2026-05-20,2250.00,33
+Elena Rossi,Italy,Amargo 70%,2026-05-22,1180.00,21
+Hans Müller,Germany,Milk Chocolate,2026-05-25,900.00,15
+Yuki Tanaka,Japan,Gianduja Bar,2026-05-28,2700.00,36
+Marc Petit,France,Truffles Box,2026-06-01,580.00,6
+Ana Silva,Brasil,Ao Leite,2026-06-03,940.00,18
+James Cook,USA,Marzipan Dark,2026-06-05,1420.00,22
+Elena Rossi,Italy,Matcha Choco,2026-06-08,3400.00,44
+Hans Müller,Germany,Caramel Sea Salt,2026-06-10,690.00,11
+Yuki Tanaka,Japan,Hazelnut Spread,2026-06-12,2050.00,31
+Marc Petit,France,White Chocolate,2026-06-15,510.00,10
+Ana Silva,Brasil,Praline,2026-06-18,2350.00,34
+James Cook,USA,Amargo 70%,2026-06-20,1220.00,23
+Elena Rossi,Italy,Milk Chocolate,2026-06-22,960.00,16
+Hans Müller,Germany,Gianduja Bar,2026-06-25,2600.00,37
+Yuki Tanaka,Japan,Truffles Box,2026-06-28,4200.00,52
+Marc Petit,France,Ao Leite,2026-07-01,890.00,17
+Ana Silva,Brasil,Marzipan Dark,2026-07-03,1380.00,21
+James Cook,USA,Matcha Choco,2026-07-05,3050.00,39
+Elena Rossi,Italy,Caramel Sea Salt,2026-07-08,710.00,11
+Hans Müller,Germany,Hazelnut Spread,2026-07-10,2150.00,33
+Yuki Tanaka,Japan,White Chocolate,2026-07-12,540.00,10
+Marc Petit,France,Praline,2026-07-15,1600.00,26
+Ana Silva,Brasil,Milk Chocolate,2026-07-18,1050.00,20
+James Cook,USA,Gianduja Bar,2026-07-20,2400.00,33
+Elena Rossi,Italy,Truffles Box,2026-07-22,490.00,4
+Hans Müller,Germany,Ao Leite,2026-07-25,920.00,18
+Yuki Tanaka,Japan,Amargo 70%,2026-07-28,3600.00,46
+Marc Petit,France,Marzipan Dark,2026-08-01,1250.00,19
+Ana Silva,Brasil,Matcha Choco,2026-08-03,3150.00,41
+James Cook,USA,Caramel Sea Salt,2026-08-05,660.00,10
+Elena Rossi,Italy,Hazelnut Spread,2026-08-08,1850.00,28
+Hans Müller,Germany,White Chocolate,2026-08-10,580.00,11
+Yuki Tanaka,Japan,Praline,2026-08-12,2550.00,32
+Marc Petit,France,Amargo 70%,2026-08-15,1200.00,22
+Ana Silva,Brasil,Gianduja Bar,2026-08-18,2750.00,38
+James Cook,USA,Truffles Box,2026-08-20,540.00,5
+Elena Rossi,Italy,Ao Leite,2026-08-22,1020.00,20
+Hans Müller,Germany,Marzipan Dark,2026-08-25,1480.00,23
+Yuki Tanaka,Japan,Matcha Choco,2026-08-28,3450.00,44
+Marc Petit,France,Caramel Sea Salt,2026-09-01,720.00,11
+Ana Silva,Brasil,Hazelnut Spread,2026-09-03,2200.00,34
+James Cook,USA,White Chocolate,2026-09-05,530.00,10
+Elena Rossi,Italy,Praline,2026-09-08,1950.00,30
+Hans Müller,Germany,Amargo 70%,2026-09-10,1320.00,25
+Yuki Tanaka,Japan,Milk Chocolate,2026-09-12,980.00,17
+Marc Petit,France,Gianduja Bar,2026-09-15,2550.00,36
